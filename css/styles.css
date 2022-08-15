@@ -370,7 +370,7 @@ header span {
   padding: 5rem;
 }
 /* media queries */
-@media screen and (min-height: 770px) {
+@media screen and (min-height: 670px) {
   .desk-gif {
     width: 35rem;
     height: 35rem;
