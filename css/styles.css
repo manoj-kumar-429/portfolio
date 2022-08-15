@@ -444,7 +444,9 @@ header span {
   header {
     background-size: contain;
   }
-
+  .hero-text {
+    padding-top: 15rem;
+  }
   .projects {
     padding: 1rem 3rem;
   }
